@@ -4,7 +4,7 @@ require 'sendgrid-ruby'
 #localhost 4567
 
 get '/' do
-  "Kings Bounty"
+  erb :home
 end
 
 get '/home' do
