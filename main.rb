@@ -65,8 +65,8 @@ get '/home' do
 end # ends sendgrid email
 
 
-get '/contact_us' do
-  erb :contact_form
+get '/contact' do
+  erb :contact
 end
 
 post '/send_dynamic_email' do
