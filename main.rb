@@ -4,7 +4,7 @@ require 'sendgrid-ruby'
 #localhost 4567
 
 get '/' do
-  erb :home
+  erb :logo
 end
 
 get '/home' do

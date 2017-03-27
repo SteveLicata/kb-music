@@ -2,3 +2,42 @@
   height: 50px;
   width: 50px;
 }
+
+body {
+  background-color: white;
+  cursor: url(''), auto;
+}
+
+/*smokey font*/
+.mock-div {
+  background-color: black;
+  opacity: 1;
+  width: 100%;
+  z-index: 1000;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+/*smokey font*/
+.flex-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+/*smokey font*/
+.logo {
+  /*background: url("http://i.giphy.com/iWJ1OFyyNd6PC.gif");*/
+  /*background: url("http://68.media.tumblr.com/5c77035446c0f9292f2a05175ab042d8/tumblr_nc9td9AKx31r2geqjo1_500.gif");*/
+  background: url('http://68.media.tumblr.com/tumblr_m48tf7k5fQ1qavzgvo1_500.gif');
+  -webkit-background-clip: text;
+  -webkit-text-fill-color:  rgba(0,0,0,0.5);
+
+  padding: 25px;
+  font-family: 'Cinzel Decorative', cursive;
+  font-weight: bold;
+  font-size: 200px;
+  text-align: center;
+}
