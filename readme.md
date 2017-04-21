@@ -4,7 +4,7 @@ Website for hard rock band Kings Bounty. Built to mirror and improve upon existi
 
 -Sendgrid API
 
--Roby
+-Ruby
 
 -HTML5
 
