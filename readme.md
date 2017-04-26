@@ -1,4 +1,4 @@
-Website for hard rock band Kings Bounty. Built to mirror and improve upon existing band site (www.kingsbountyband.com).
+Artist Website for band Kings Bounty. Built to copy, mirror, and improve upon existing band site found at www.kingsbountyband.com.
 
 -Sinatra
 

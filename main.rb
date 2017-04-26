@@ -71,14 +71,7 @@ end
 
 post '/send_dynamic_email' do
 
-  puts params.inspect
-
-  # {
-  #   "from_email"=>"steve.licata@gmail.com",
-  #   "to_email"=>"steve.licata@gmail.com",
-  #   "email_subject"=>"hi"
-  #   "email_content"=>"lorem"
-  # }
+  puts params.inspects
 
 #set variables to hold parameter data:
 @from_email = params[:from_email]
