@@ -6,6 +6,8 @@ Artist Website for band Kings Bounty. Built to copy, mirror, and improve upon ex
 
 -Ruby
 
+-YouTube Developer Tools
+
 -HTML5
 
 -CSS3
