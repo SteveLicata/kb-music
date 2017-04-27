@@ -1,3 +1,3 @@
 # For Heroku
-require './app'
+require './main'
 run Sinatra::Application
