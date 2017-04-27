@@ -1,2 +1,3 @@
-require "./kings-bounty-website"
+# For Heroku
+require './app'
 run Sinatra::Application
