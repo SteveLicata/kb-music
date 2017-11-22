@@ -35,6 +35,10 @@ get '/contact' do
   erb :contact
 end
 
+get '/presskit' do
+  erb :presskit
+end
+
 
 
 
