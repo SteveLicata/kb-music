@@ -46,6 +46,6 @@ body {
   text-align: center;
 }
 
-.shows {
+.shows, .about {
   background-color: #10101010;
 }
