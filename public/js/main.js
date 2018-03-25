@@ -20,7 +20,9 @@ window.onload = function() {
 
 
   // nav
-  $('.collapse').collapse()
+  $('.collapse').collapse({
+    toggle: false
+  })
 
   // button
   $().button('toggle')
